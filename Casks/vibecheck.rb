@@ -7,6 +7,7 @@ cask "vibecheck" do
   desc "Edge panel showing live coding-agent sessions"
   homepage "https://github.com/ikramhasan/vibecheck"
 
+  auto_updates true
   depends_on arch: :arm64
   depends_on macos: :tahoe
 
