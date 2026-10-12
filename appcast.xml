@@ -3,19 +3,20 @@
   <channel>
     <title>vibecheck</title>
     <item>
-      <title>vibecheck 0.1.0</title>
-      <pubDate>Mon, 12 Oct 2026 00:47:50 +0000</pubDate>
-      <sparkle:version>0.1.0</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <title>vibecheck 0.2.0</title>
+      <pubDate>Mon, 12 Oct 2026 10:14:27 +0000</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:fullReleaseNotesLink>https://github.com/ikramhasan/homebrew-tap/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:format="markdown"><![CDATA[
-- feat: check for updates with Sparkle and show the changelog before installing (#7)
-- feat: show usage rings on the empty panel tab (#6)
-- feat: add fast actions to run saved shell commands from the panel (#4)
+- feat: show sessions, diffs and dev servers from other machines over ssh (#10)
+- Add `pullfrog.yml` workflow
+- fix: show Claude context usage against the model's real context window (#9)
+- feat: show what each session changed, and review it in a diff window (#8)
       ]]></description>
-      <enclosure url="https://github.com/ikramhasan/homebrew-tap/releases/download/v0.1.0/vibecheck-0.1.0.zip"
-                 type="application/octet-stream" sparkle:edSignature="MDCeO9HGKqxg7pVNM6M9y3Sb2kDuyczP4H3MUwrCO2NO/7UcVQ9z+F5yBeWE9/lhGPfsD9hRsKp2bPEWwZ88Dg==" length="16182690" />
+      <enclosure url="https://github.com/ikramhasan/homebrew-tap/releases/download/v0.2.0/vibecheck-0.2.0.zip"
+                 type="application/octet-stream" sparkle:edSignature="FBQKClFY6DJxHk+tmGcuG6Ac41WpqLDG6EaJQNwu7kR2xUST2upUFmRFUnfqKIAZAC96FBNXYoOJ6kIQDKTnCA==" length="18715676" />
     </item>
   </channel>
 </rss>
