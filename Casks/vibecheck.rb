@@ -1,6 +1,6 @@
 cask "vibecheck" do
-  version "0.0.3"
-  sha256 "19237796d742dfa3adda189f51aa6eaca3c985bebb2514c9a3b18a2d0f659eea"
+  version "0.1.0"
+  sha256 "e51f019be07749552e038f3a568a70d6c35a1f5ad108d604c5b2dbcdd6bc1ce9"
 
   url "https://github.com/ikramhasan/homebrew-tap/releases/download/v#{version}/vibecheck-#{version}.zip"
   name "vibecheck"
