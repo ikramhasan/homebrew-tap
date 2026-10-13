@@ -3,18 +3,19 @@
   <channel>
     <title>vibecheck</title>
     <item>
-      <title>vibecheck 0.3.0</title>
-      <pubDate>Mon, 12 Oct 2026 12:54:13 +0000</pubDate>
-      <sparkle:version>0.3.0</sparkle:version>
-      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <title>vibecheck 0.4.0</title>
+      <pubDate>Tue, 13 Oct 2026 20:50:37 +0000</pubDate>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:fullReleaseNotesLink>https://github.com/ikramhasan/homebrew-tap/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:format="markdown"><![CDATA[
-- feat: read Claude, Codex and Kiro usage directly, without CodexBar (#13)
-- fix: make the panel animate smoothly and switch tabs faster (#12)
+- Track Claude background task state (#16)
+- feat: always show the usage circles in the collapsed panel, below your sessions (#15)
+- feat: open vibecheck at login, with a setting to turn it off (#14)
       ]]></description>
-      <enclosure url="https://github.com/ikramhasan/homebrew-tap/releases/download/v0.3.0/vibecheck-0.3.0.zip"
-                 type="application/octet-stream" sparkle:edSignature="LeqDBTw0H8VktI95bPCKuMN4qFeZCrbeLE4AM/1wxBvrE3PbD0ALSXoOo6wXy66eYq5Ho+mNkfc3H2c3lvsfDA==" length="5227509" />
+      <enclosure url="https://github.com/ikramhasan/homebrew-tap/releases/download/v0.4.0/vibecheck-0.4.0.zip"
+                 type="application/octet-stream" sparkle:edSignature="b+V7yfNbaZHinZfC+M06b9pbrNFSQ4dQeczcIgvfceT2rdJG0iYUdq4rOLZxSGYXRtruNKmU73lkBDBpAUAjAw==" length="5245917" />
     </item>
   </channel>
 </rss>
