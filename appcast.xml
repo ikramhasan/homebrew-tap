@@ -3,19 +3,17 @@
   <channel>
     <title>vibecheck</title>
     <item>
-      <title>vibecheck 0.4.0</title>
-      <pubDate>Tue, 13 Oct 2026 20:50:37 +0000</pubDate>
-      <sparkle:version>0.4.0</sparkle:version>
-      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <title>vibecheck 0.5.0</title>
+      <pubDate>Wed, 14 Oct 2026 05:39:32 +0000</pubDate>
+      <sparkle:version>0.5.0</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:fullReleaseNotesLink>https://github.com/ikramhasan/homebrew-tap/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:format="markdown"><![CDATA[
-- Track Claude background task state (#16)
-- feat: always show the usage circles in the collapsed panel, below your sessions (#15)
-- feat: open vibecheck at login, with a setting to turn it off (#14)
+- feat: Random loading indicator, the new default, and far less CPU while agents are working (#17)
       ]]></description>
-      <enclosure url="https://github.com/ikramhasan/homebrew-tap/releases/download/v0.4.0/vibecheck-0.4.0.zip"
-                 type="application/octet-stream" sparkle:edSignature="b+V7yfNbaZHinZfC+M06b9pbrNFSQ4dQeczcIgvfceT2rdJG0iYUdq4rOLZxSGYXRtruNKmU73lkBDBpAUAjAw==" length="5245917" />
+      <enclosure url="https://github.com/ikramhasan/homebrew-tap/releases/download/v0.5.0/vibecheck-0.5.0.zip"
+                 type="application/octet-stream" sparkle:edSignature="o0JqRGFWO2PYXf+dTd3IEJGEZ/oT7MzL+rhs1/VbBJA0Zn3veTRHI99LQjlunOl4glsekLoAXqWs7itj5GIVBA==" length="5307548" />
     </item>
   </channel>
 </rss>
