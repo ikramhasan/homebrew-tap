@@ -3,18 +3,17 @@
   <channel>
     <title>vibecheck</title>
     <item>
-      <title>vibecheck 0.6.0</title>
-      <pubDate>Fri, 16 Oct 2026 00:35:32 +0000</pubDate>
-      <sparkle:version>0.6.0</sparkle:version>
-      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <title>vibecheck 0.7.0</title>
+      <pubDate>Fri, 16 Oct 2026 22:27:31 +0000</pubDate>
+      <sparkle:version>0.7.0</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:fullReleaseNotesLink>https://github.com/ikramhasan/homebrew-tap/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:format="markdown"><![CDATA[
-- feat: Buddy orbs, a little face for every status, and orbs no longer move in lockstep (#19)
-- feat: Ring orbs for every status, and a new app icon (#18)
+- feat: A welcome walkthrough on first launch with a live preview of the panel (#20)
       ]]></description>
-      <enclosure url="https://github.com/ikramhasan/homebrew-tap/releases/download/v0.6.0/vibecheck-0.6.0.zip"
-                 type="application/octet-stream" sparkle:edSignature="kUTDvdiRKyyxdxSvzJjlaLbguzFDGzfbW6LkNDa+x+XmxZZa9tiT7aZbpTVQWE9BoHat9Bw2rCkFSfmoJ++SCw==" length="5313393" />
+      <enclosure url="https://github.com/ikramhasan/homebrew-tap/releases/download/v0.7.0/vibecheck-0.7.0.zip"
+                 type="application/octet-stream" sparkle:edSignature="yovSAURT30i7TtycafIvVRgNKpaQHTpEXnj0h1Cn2Fg4OXMVUmXC+XfB2oHLyEU2xi+C0ZW2UOhhVXt3PZe0Bg==" length="5428539" />
     </item>
   </channel>
 </rss>
