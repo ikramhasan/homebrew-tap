@@ -3,17 +3,19 @@
   <channel>
     <title>vibecheck</title>
     <item>
-      <title>vibecheck 0.7.0</title>
-      <pubDate>Fri, 16 Oct 2026 22:27:31 +0000</pubDate>
-      <sparkle:version>0.7.0</sparkle:version>
-      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <title>vibecheck 0.8.0</title>
+      <pubDate>Sat, 17 Oct 2026 19:56:12 +0000</pubDate>
+      <sparkle:version>0.8.0</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:fullReleaseNotesLink>https://github.com/ikramhasan/homebrew-tap/releases</sparkle:fullReleaseNotesLink>
       <description sparkle:format="markdown"><![CDATA[
-- feat: A welcome walkthrough on first launch with a live preview of the panel (#20)
+- feat: Drag the panel to any height on the left or right edge (#26)
+- fix: Project icons now show for monorepos, Tauri, Flutter and other app layouts (#23)
+- fix: Sessions no longer stay stuck on "Working" after you stop a background task (#22)
       ]]></description>
-      <enclosure url="https://github.com/ikramhasan/homebrew-tap/releases/download/v0.7.0/vibecheck-0.7.0.zip"
-                 type="application/octet-stream" sparkle:edSignature="yovSAURT30i7TtycafIvVRgNKpaQHTpEXnj0h1Cn2Fg4OXMVUmXC+XfB2oHLyEU2xi+C0ZW2UOhhVXt3PZe0Bg==" length="5428539" />
+      <enclosure url="https://github.com/ikramhasan/homebrew-tap/releases/download/v0.8.0/vibecheck-0.8.0.zip"
+                 type="application/octet-stream" sparkle:edSignature="kNONoAgVo8yG7Rh2+KtcpTqY/huOM5seNmD+/vyymIxnCSgc+1kdkumBUJMgJ67ieFNB5d1K5dL1PJnVbh/oAg==" length="5461263" />
     </item>
   </channel>
 </rss>
